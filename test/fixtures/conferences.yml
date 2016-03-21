@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  theme: MyString
+  location: MyString
+  starting_date: 2016-03-20 21:18:22
+  ending_date: 2016-03-20 21:18:22
+  cost: 1.5
+
+two:
+  title: MyString
+  theme: MyString
+  location: MyString
+  starting_date: 2016-03-20 21:18:22
+  ending_date: 2016-03-20 21:18:22
+  cost: 1.5
